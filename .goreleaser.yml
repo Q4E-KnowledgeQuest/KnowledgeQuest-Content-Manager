@@ -1,0 +1,15 @@
+# .goreleaser.yml
+archives:
+- files:
+  - hugo/
+builds:
+  - goos:
+      - darwin
+      - linux
+    goarch:
+      - amd64
+      - arm64
+      - arm
+    goarm:
+      - 6
+      - 7
