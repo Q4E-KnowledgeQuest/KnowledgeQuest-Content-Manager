@@ -28,6 +28,8 @@ func main() {
 
 	defer dbmanager.Close()
 
+	banner()
+
 	server.Start(*portPtr, *logPtr)
 
 }
