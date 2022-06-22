@@ -11,6 +11,7 @@ import (
 	"flag"
 	"main/components/dbmanager"
 	"main/server"
+	"github.com/pterm/pterm"
 )
 
 func main() {
@@ -29,4 +30,9 @@ func main() {
 
 	server.Start(*portPtr, *logPtr)
 
+}
+
+func banner() {
+	pterm.DefaultCenter.Print(pterm.DefaultHeader.WithFullWidth().WithBackgroundStyle(pterm.NewStyle(pterm.BgLightBlue)).WithMargin(10).Sprint("Quest For Excellence Learning Platform"))
+	pterm.Info.Println("(c)2022 by Akhil Datla")
 }
