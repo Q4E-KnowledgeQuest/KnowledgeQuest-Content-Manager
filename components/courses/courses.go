@@ -117,4 +117,11 @@ title: "Quest 4 Excellence Learning Platform"
 
 This learning platform is designed to help you engage with the Quest 4 Excellence cirriculum.
 
+## AMSE Programs
+
+After-school AMSE Programs offer students a platform to engage with exciting material and the chance to participate in life-changing experiences in the STEM fields. Students who have registered for AMSE Membership or AMSE Honors status are eligible to apply for an AMSE Program. Select the AMSE Program Application button to learn more.
+
+[AMSE PROGRAMS APPLICATION DETAILS](https://www.vcs.net/k-12-programs/applied-math-science-engineering-institute/apply-to-amse-institute#apply)                              
+
+The AMSE Institute is proud to offer a wide variety of unique programs, providing virtual, hybrid, and on-campus options to accommodate all interested students and comply with campus restrictions, as needed.
 `
