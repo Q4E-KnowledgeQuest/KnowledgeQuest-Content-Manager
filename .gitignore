@@ -23,7 +23,7 @@
 go.work
 
 ### Go Patch ###
-/vendor/
+#/vendor/
 /Godeps/
 
 ### Hugo ###
