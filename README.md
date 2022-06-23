@@ -1,1 +1,1 @@
-# Content-Manager
+# KnowledgeQuest Content Manager
