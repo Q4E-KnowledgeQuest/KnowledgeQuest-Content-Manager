@@ -110,10 +110,10 @@ func GenerateWebsite(courseIDs []string) string {
 var indexMDContent = 
 `
 ---
-title: "Quest 4 Excellence Learning Platform"
+title: "KnowledgeQuest"
 ---
 
-# Quest 4 Excellence Learning Platform
+# KnowledgeQuest
 
 This learning platform is designed to help you engage with the Quest 4 Excellence cirriculum.
 
