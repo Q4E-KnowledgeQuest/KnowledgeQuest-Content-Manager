@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Q4E Learning Platform'
+title = 'KnowledgeQuest'
 theme = 'hugo-theme-learn'
 
 [params]
